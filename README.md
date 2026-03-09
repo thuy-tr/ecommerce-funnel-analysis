@@ -54,7 +54,7 @@ Screenshots of query results from Google BigQuery:
 
 | Revenue by traffic source |
 |---------------------------|
-| ![Revenue by traffic source](images/revenue-by-traffic-source.png) |
+| ![Revenue by traffic source](images/revenue-by-traffic.png) |
 
 ---
 
