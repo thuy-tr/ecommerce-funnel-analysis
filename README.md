@@ -48,13 +48,20 @@ This analysis focuses on answering the following questions:
 
 Screenshots of query results from Google BigQuery:
 
-| Funnel conversion rates | Traffic source performance |
-|-------------------------|----------------------------|
-| ![Funnel conversion rates](images/funnel-conversion-rates.png) | ![Traffic source performance](images/traffic-source-performance.png) |
+| Funnel conversion rates |
+|-------------------------|
+| ![Funnel conversion rates](images/funnel-conversion-rates.png) |
+_The biggest drop happens between **page view &rarr; add to cart**_
+
+| Traffic source performance |
+|----------------------------|
+| ![Traffic source performance](images/traffic-source-performance.png) |
+_Email had the highest conversion rate at 33.9%, while social converted at only 6.9%_
 
 | Revenue by traffic source |
 |---------------------------|
 | ![Revenue by traffic source](images/revenue-by-traffic.png) |
+_Organic brings the most total revenue because it brings the most users_
 
 ---
 
@@ -66,6 +73,8 @@ Screenshots of query results from Google BigQuery:
 - Social traffic brings users but converts significantly lower (6.9%).
 - Organic traffic drives the **most overall revenue** due to higher volume (42.37% of total revenue).
 
+&rarr; **volume leader**: organic <br>
+&rarr; **efficiency leader**: email
 
 ## Recommendation
 
